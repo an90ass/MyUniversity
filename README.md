@@ -1,5 +1,5 @@
 # MyUniversity
-A desktop application project for a university system, Adding and deleting students, Adding and deleting doctors, changing passwords, paying fees, changing semesters, downloading subjects , deleting subjects and other basic things in any university system, I linked with SQL database.
+A desktop application project for a university system, Adding and deleting students, Adding and deleting doctors, changing passwords, paying fees, changing semesters, downloading subjects , deleting subjects and other basic things in any university system.
 ![Screenshot (606)](https://user-images.githubusercontent.com/91754070/193426941-ea3c9fc8-ef15-46a7-a042-13deaec9e17c.png)
 ![Screenshot (615)](https://user-images.githubusercontent.com/91754070/193427357-96b93021-d26f-4a49-ba8e-a356f15cff1e.png)
 ![Screenshot (607)](https://user-images.githubusercontent.com/91754070/193426986-cf5cd887-08d6-4a26-a111-cbfd5cfb9606.png)
